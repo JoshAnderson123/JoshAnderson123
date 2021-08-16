@@ -2,21 +2,19 @@
 
 [![Website](https://img.shields.io/website?label=joshanderson.uk&style=for-the-badge&url=https%3A%2F%2Fjoshanderson.uk)](https://joshanderson.uk)
 
-## I'm a Developer, Designer, and Engineer!!
+## I'm a Developer, Designer, and Engineer!
 
 - 🎓 I recently graduated from Imperial College London
 - 🌱 I’m currently learning Docker, Kubernetes, and AWS technologies
-- 🚀 I’m looking for an exciting opportunity in full stack engineering
+- 🚀 I’m looking for an exciting new opportunity in full stack engineering
 - 🥅 2021 Goals: Create an online course in web development
 - 🎸 Fun fact: I love to play guitar and sing!
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="joshanderson.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://joshanderson.uk)
+[<img align="left" alt="Josh Anderson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jfa-design/)
+[<img align="left" alt="Josh Anderson | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:Joshfanderson1@gmail.com)
 
 <br />
 
