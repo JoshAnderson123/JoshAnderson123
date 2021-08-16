@@ -1,4 +1,4 @@
-### Hi there, I'm Josh 👋
+# Hi there, I'm Josh 👋
 
 [![Website](https://img.shields.io/website?label=joshanderson.uk&style=for-the-badge&url=https%3A%2F%2Fjoshanderson.uk)](https://joshanderson.uk)
 
